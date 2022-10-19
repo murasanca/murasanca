@@ -1,4 +1,4 @@
-<img src="https://github.com/murasanca/murasanca/blob/main/Assets/Sprites/murasanca.png" alt="Murat Sancak">
+<img src="https://github.com/murasanca/Database/blob/main/png/msW1024x256.png" alt="Murat Sancak">
 <hr>
 <p align="center">
     <a href="https://9gag.com/u/murasanca" target="_blank">9GAG</a>
