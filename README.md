@@ -30,7 +30,6 @@
     <a href="https://twitter.com/murasanca" target="_blank">Twitter</a>
     <strong>·</strong>
     <a href="https://www.youtube.com/MuratSancak" target="_blank">YouTube</a>
-    <strong>·</strong>
 </p>
 <hr>
 <p align="center">
