@@ -33,10 +33,14 @@
     <strong>·</strong>
     <a href="https://twitter.com/murasanca"target="_blank">Twitter</a>
     <strong>·</strong>
+<<<<<<< HEAD
     <a href="https://assetstore.unity.com/publishers/57959"target="_blank">Unity Asset Store</a>
     <strong>·</strong>
     <a href="https://www.youtube.com/MuratSancak"target="_blank">YouTube</a>
     <strong>·</strong>
+=======
+    <a href="https://www.youtube.com/MuratSancak" target="_blank">YouTube</a>
+>>>>>>> 0786b9ad3cb0386da090c999fb9ce56fd6b77d16
 </p>
 <hr>
 <p align="center">
