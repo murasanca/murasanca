@@ -8,7 +8,7 @@
 	. .   . .   . .  . . . . . . . .
 	. .   . .   . .  . . . . . . . .
   -->
-<img alt="Murat Sancak" src="https://raw.githubusercontent.com/murasanca/Database/main/MS/msW1024x256.png"/>
+<img alt="Murat Sancak" src="https://raw.githubusercontent.com/murasanca/Database/main/MS/msW1024x256.png">
 <hr>
 <table align="center">
 	<thead align="center">
