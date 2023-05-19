@@ -1,4 +1,14 @@
-<img alt="Murat Sancak"src="https://github.com/murasanca/Database/blob/main/MS/msW1024x256.png">
+<!--
+	. . . . . . . .  . . . . . . . .
+	. . . . . . . .  . . . . . . . .
+	. .   . .   . .  . .            
+	. .   . .   . .  . .
+	. .   . .   . .              . .
+	. .   . .   . .              . .
+	. .   . .   . .  . . . . . . . .
+	. .   . .   . .  . . . . . . . .
+  -->
+<img alt="Murat Sancak"src="https://raw.githubusercontent.com/murasanca/Database/main/MS/msW1024x256.png">
 <hr>
 <p align="center">
     <a href="https://9gag.com/u/murasanca"target="_blank">9GAG</a>
@@ -36,7 +46,6 @@
     <a href="https://assetstore.unity.com/publishers/57959"target="_blank">Unity Asset Store</a>
     <strong>·</strong>
     <a href="https://www.youtube.com/MuratSancak"target="_blank">YouTube</a>
-    <strong>·</strong>
 </p>
 <hr>
 <p align="center">
