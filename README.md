@@ -13,7 +13,7 @@
 <table align="center">
 	<thead>
 		<tr>
-			<th colspan="3">Link Table</th>
+			<th colspan="3"><a href="https://www.murasanca.com" target="_blank">murasanca</a></th>
 		</tr>
 	</thead>
 	<tbody>
