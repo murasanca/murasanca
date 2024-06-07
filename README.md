@@ -41,7 +41,7 @@
 			<td align="center"><a href="https://tiktok.murasanca.com" target="_blank">TikTok</a></td>
 			<td align="center"><a href="https://turkcell.murasanca.com" target="_blank">Turkcell</a></td>
 			<td align="center"><a href="https://twitch.murasanca.com" target="_blank">Twitch</a></td>
-			<td align="center"><a href="https://unity.murasanca.com" target="_blank">Unity Asset Store</a></td>
+			<td align="center"><a href="https://unity.murasanca.com" target="_blank">Unity</a></td>
 			<td align="center"><a href="https://x.murasanca.com" target="_blank">X</a></td>
 			<td align="center" colspan="3"><a href="https://youtube.murasanca.com" target="_blank">YouTube</a></td>
 		</tr>
